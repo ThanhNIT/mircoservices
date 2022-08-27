@@ -1,0 +1,4 @@
+com\zamo\microservices\currencyexchangeservice\CurrencyExchangeServiceApplication.class
+com\zamo\microservices\currencyexchangeservice\ExchangeValue.class
+com\zamo\microservices\currencyexchangeservice\ExchangeValueRepository.class
+com\zamo\microservices\currencyexchangeservice\CurrencyExchangeController.class

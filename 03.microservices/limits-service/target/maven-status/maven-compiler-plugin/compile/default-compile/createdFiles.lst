@@ -1,0 +1,4 @@
+com\zamo\microservices\limitsservice\LimitsConfigurationController.class
+com\zamo\microservices\limitsservice\bean\LimitConfiguration.class
+com\zamo\microservices\limitsservice\LimitsServiceApplication.class
+com\zamo\microservices\limitsservice\Configuration.class

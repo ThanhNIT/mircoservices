@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zamo/microservices/currencyconversionservice/CurrencyConversionBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zamo/microservices/currencyconversionservice/CurrencyConversionController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zamo/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zamo/microservices/currencyconversionservice/CurrencyExchangeServiceProxy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-cloud-config-server/src/main/java/com/zamo/microservices/springcloudconfigserver/SpringCloudConfigServerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
